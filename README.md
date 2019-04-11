@@ -18,14 +18,14 @@ MeshLambertMaterial
 This  material is used to create dim and unlighted objects.
 MeshPhongMaterial	 
 This material is used to create bright objects.
-Furthermore, I have used some pictures to creat my unique material and tried to create my unique pattern, which looks like a flower.
+Furthermore, I have used some pictures to creat my unique material and tried to create my unique pattern, which looks like a flower. The reason why I chose toruses and cubes was that I were inspired by the sentence  'the dome-like heaven embraces the vast earth ', one of China's Traditional World Views. The flower is raised by the world, so it is made by the toruses and cubes 
 -----------------------------------------------------------------
 
 In session 3, we have learned how to add controllers to control the scale, position and rotation of the cube.Therefore,I completed the controllers.
 -----------------------------------------------------------------
 
 In session 4, we have learned to control the numbers of  geometries with the method of putting them into an array.
-There are 3 exercise. In the first exercise, I have changed the color of arraies. In the second one, I have madee cubes rotate randomly and individually. In the last one, I have did some try.
+There are 3 exercise. In the first exercise, I have changed the color of arraies. In the second one, I have made cubes rotate randomly and individually. In the last one, I have did some try.
 -----------------------------------------------------------------
 
 In session 6,I also did some exploration to master basic skills.
@@ -34,7 +34,7 @@ In session 6,I also did some exploration to master basic skills.
 In session 7, I made the interaction with eyes. The eyes can move as the mouse moves.
 -----------------------------------------------------------------
 
-In session 8, I improved the interaction that all the eyes can look at the mouse.Then, in the second folder, if the mouse clicks, the geometries can change their size and color randomly in 3D space.In the third folder, I have imported 3D objects. If the mouse touches them, they will turn red. However, this exercise needs to be waited for a long time.
+In session 8, I improved the interaction that all the eyes can look at the mouse.In this exercise, I must realize that the 3D space and 2D sapce use a different coordinate system.It is a challenge for me to transform them.Then, in the second folder, if the mouse clicks, the geometries can change their size and color randomly in 3D space.In the third folder, I have imported 3D objects. If the mouse touches them, they will turn red. However, this exercise needs to be waited for a long time.
 -----------------------------------------------------------------
 
 In session 9, I have added audio source and learned some shaders.What is important is that some shaders cannot be realized.
