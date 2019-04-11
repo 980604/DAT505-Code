@@ -13,8 +13,8 @@ THREE.FocusShader = {
 		"tDiffuse":       { value: null },
 		"screenWidth":    { value: 1024 },
 		"screenHeight":   { value: 1024 },
-		"sampleDistance": { value: 0.94 },
-		"waveFactor":     { value: 0.00125 }
+		"sampleDistance": { value: 1.25 },
+		"waveFactor":     { value: 0.00225 }
 
 	},
 
