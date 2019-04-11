@@ -4,6 +4,7 @@ MY name is Xinyu Qian.
 this is a directory that includes code projects for DAT505 module
 
 In this project, we have learned some basic knowledge about threejs.
+
 #SESSION1
 In session 1, we have learned how to create geometries and change its size ,so I have treid to combine the two different geometries, referring to the examples the teacher gave.
 
