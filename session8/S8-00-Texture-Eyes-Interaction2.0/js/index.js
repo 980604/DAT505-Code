@@ -107,7 +107,7 @@ function animate() {
 	requestAnimationFrame( animate );
 	render();
 }
-
+// transform the 3D and 2D values
 function render() {
 	console.log(mouseY)
 	for (var i = 0; i < eyesNum; i++) {

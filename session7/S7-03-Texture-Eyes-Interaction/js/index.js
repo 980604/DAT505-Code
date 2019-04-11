@@ -22,10 +22,11 @@ function init() {
 	camera = new THREE.PerspectiveCamera( 40, window.innerWidth / window.innerHeight, 1, 1000 );
 	camera.position.set( 0, 0, 150 );
   scene.add( camera ); // since light is child of camera
-
+// add the light
 	scene.add( new THREE.AmbientLight( 0xffffff, 0.2 ) );
 	var light = new THREE.PointLight( 0xffffff, 1 );
 	camera.add( light );
+	// add the mesh in a range
 for ( a = 0; a < 10; a ++ ) {
 	var material = new THREE.MeshPhongMaterial( {
 		color: 0xffffff,
@@ -47,6 +48,7 @@ for ( a = 0; a < 10; a ++ ) {
 			uvs[ j ].y = face.vertexNormals[ j ].y * 0.5 + 0.5;
 		}
 	}
+	//change the scale
 var cubescale=(Math.random()*-2)+1;
   mesh = new THREE.Mesh( geometry, material );
 	mesh.position.x=(Math.random()*-200)+40;
@@ -70,7 +72,7 @@ function animate() {
 	requestAnimationFrame( animate );
 	render();
 }
-
+// define the mouseevent
 function render() {
 	console.log(window.innerHeight)
 	cubes.forEach(function(c,i){
@@ -87,7 +89,7 @@ function onWindowResize() {
   camera.aspect = window.innerWidth / window.innerHeight;
   renderer.setSize( window.innerWidth, window.innerHeight );
 }
-
+//control the mousemove
 function onDocumentMouseMove( event ) {
   mouseX = event.clientX - windowHalfX;
   mouseY = event.clientY - windowHalfY;
