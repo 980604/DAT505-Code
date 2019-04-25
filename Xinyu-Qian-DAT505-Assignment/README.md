@@ -4,7 +4,7 @@ My name is Xinyu Qian.
 
 My student number is B161006076.
 
-My Github link:
+My Github link:https://github.com/980604/DAT505-Code.git
 
 #MUSIC Box
 ========
