@@ -32,7 +32,7 @@ I want to express the theme of childhood in this project. Many people undertake 
  I’ll create a simple 3D scene with a few interactions in two major parts. In the first part i will explain the basics of Three.js and how to set up a very simple scene. The second part I will go into some details on how to refine the shapes, how to add some atmosphere and better movements to the different elements of the scene.
 
 The most difficult thing in this project is the design of geometries. I have did some sketches in the early stage and matched color. I have to use simple pattern to show characteristic.
-![Image text](https://raw.githubusercontent.com/980604/DAT505-Code/master/Xinyu-Qian-DAT505-Assignment/image/animal.jpg)
+![Image text](https://raw.githubusercontent.com/980604/DAT505-Code/master/Xinyu-Qian-DAT505-Assignment/image/animal.JPG)
 
 Before starting to code the scene, I  define a color palette that will be used consistently throughout the project. For this project I choose the following colors:
 ![Image text](https://raw.githubusercontent.com/980604/DAT505-Code/master/Xinyu-Qian-DAT505-Assignment/image/color1.jpg)
