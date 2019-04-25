@@ -44,13 +44,14 @@ Let me do it
 
 THE SECOND STEP: make the structure and add all the main functions we need to create are put into the init function:
 ![Image text](https://raw.githubusercontent.com/980604/DAT505-Code/master/Xinyu-Qian-DAT505-Assignment/image/1.jpg)
-![Image text]https://raw.githubusercontent.com/980604/DAT505-Code/master/Xinyu-Qian-DAT505-Assignment/image/2.jpg)
+![Image text](https://raw.githubusercontent.com/980604/DAT505-Code/master/Xinyu-Qian-DAT505-Assignment/image/2.jpg)
 ![Image text](https://raw.githubusercontent.com/980604/DAT505-Code/master/Xinyu-Qian-DAT505-Assignment/image/3.jpg)
 
 The lights will set the mood of the whole scene and must be determined carefully. At this step of the project, I will just try to make the lightning good enough to make the objects visible.
 ![Image text](https://raw.githubusercontent.com/980604/DAT505-Code/master/Xinyu-Qian-DAT505-Assignment/image/lights.jpg)
 
 The mouse event
+
 ![Image text](https://raw.githubusercontent.com/980604/DAT505-Code/master/Xinyu-Qian-DAT505-Assignment/image/mouseevent.jpg)
 
 THE THIRLD STEP: create a pig and a alpaca and a swing.
