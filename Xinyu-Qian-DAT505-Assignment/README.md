@@ -56,10 +56,15 @@ The mouse event
 
 THE THIRLD STEP: create a pig and a alpaca and a swing.
  The scripts are too long, so I summarize what we need in order to create an object. We need to
+
 a.create a geometry
+
 b.create a material
+
 c.pass them into a mesh
+
 d.add the mesh to our scene
+
 With these basic steps, I can create many different kinds of primitive objects. Now, if I combine them, I can create much more complex shapes.
 
 The FORTH STEP: add animation
