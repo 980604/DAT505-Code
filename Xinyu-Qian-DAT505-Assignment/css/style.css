@@ -1,13 +1,8 @@
-body {
-  background-color: #a3d5d3;
-}
-* {
-  margin: 0;
-  padding: 0;
-}
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:800);
 
 
-/*
+
+
 #world {
   background: #8057AE;
   position:absolute;
